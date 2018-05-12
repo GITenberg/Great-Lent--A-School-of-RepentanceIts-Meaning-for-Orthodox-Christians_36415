@@ -1,0 +1,31 @@
+_repo: Great-Lent--A-School-of-RepentanceIts-Meaning-for-Orthodox-Christians_36415
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 36415-h/images/cover-f.jpg
+creator:
+  author:
+    agent_name: Schmemann, Alexander
+    aliases:
+    - Shmeman, A. (Aleksandr)
+    - Schmemann, Alexandre
+    - Schmemann, Alexander
+    birthdate: 1921
+    deathdate: 1983
+    gutenberg_agent_id: '38255'
+    url: http://www.gutenberg.org/2009/agents/38255
+description: ''
+gutenberg_issued: '2011-06-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36415'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Orthodox Eastern Church -- Liturgy'
+- !lcsh 'Lent'
+- !lcc 'BX'
+title: 'Great Lent: A School of Repentance. Its Meaning for Orthodox Christians'
+url: http://www.gutenberg.org/ebooks/36415
